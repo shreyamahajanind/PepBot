@@ -1,0 +1,10 @@
+C:\Users\RIYA\Downloads\chatbotwithqnamakerappservice-bot-src-3\QnABotML.Model\bin\Release\netstandard2.0\MLModel.zip
+C:\Users\RIYA\Downloads\chatbotwithqnamakerappservice-bot-src-3\QnABotML.Model\bin\Release\netstandard2.0\QnABotML.Model.deps.json
+C:\Users\RIYA\Downloads\chatbotwithqnamakerappservice-bot-src-3\QnABotML.Model\bin\Release\netstandard2.0\QnABotML.Model.dll
+C:\Users\RIYA\Downloads\chatbotwithqnamakerappservice-bot-src-3\QnABotML.Model\bin\Release\netstandard2.0\QnABotML.Model.pdb
+C:\Users\RIYA\Downloads\chatbotwithqnamakerappservice-bot-src-3\QnABotML.Model\obj\Release\netstandard2.0\QnABotML.Model.csprojAssemblyReference.cache
+C:\Users\RIYA\Downloads\chatbotwithqnamakerappservice-bot-src-3\QnABotML.Model\obj\Release\netstandard2.0\QnABotML.Model.AssemblyInfoInputs.cache
+C:\Users\RIYA\Downloads\chatbotwithqnamakerappservice-bot-src-3\QnABotML.Model\obj\Release\netstandard2.0\QnABotML.Model.AssemblyInfo.cs
+C:\Users\RIYA\Downloads\chatbotwithqnamakerappservice-bot-src-3\QnABotML.Model\obj\Release\netstandard2.0\QnABotML.Model.csproj.CoreCompileInputs.cache
+C:\Users\RIYA\Downloads\chatbotwithqnamakerappservice-bot-src-3\QnABotML.Model\obj\Release\netstandard2.0\QnABotML.Model.dll
+C:\Users\RIYA\Downloads\chatbotwithqnamakerappservice-bot-src-3\QnABotML.Model\obj\Release\netstandard2.0\QnABotML.Model.pdb

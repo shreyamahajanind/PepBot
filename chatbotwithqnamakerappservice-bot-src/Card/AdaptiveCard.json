@@ -1,0 +1,36 @@
+{
+  "$schema": "https://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Would you like to any question to me?",
+      "wrap": true
+    },
+    {
+      "type": "Input.Text",
+      "id": "question",
+      "isMultiline": true,
+      "placeholder": "Type your question here..."
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Ask question",
+      "data": {
+        "prop1": "submit",
+        "prop2": ""
+      }
+    },
+      {
+        "type": "Action.Submit",
+        "title": "See Some Quotes",
+        "data": {
+          "prop1": "quote",
+          "prop2": "${emotion}"
+        }
+      }
+  ]
+}
