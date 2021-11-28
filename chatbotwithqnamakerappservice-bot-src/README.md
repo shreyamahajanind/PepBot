@@ -4,7 +4,7 @@ QnA knowledge base setup and application configuration steps can be found [here]
 
 ## To try this sample
 - Create a Knowledge Base in QnAMaker Portal.
-- Import "Pep-Bot-Kb.tsv" file, in QnAMaker Portal.
+- Import "PepBotKnowledgeBase.tsv" file, in QnAMaker Portal.
 - Save and Train the model.
 - Create Bot from Publish page.
 - Test bot with Web Chat.
@@ -14,6 +14,8 @@ QnA knowledge base setup and application configuration steps can be found [here]
 - Use value of "QnAAuthKey" for setting "QnAEndpointKey".
 - Capture KnowledgeBase Id, HostName and EndpointKey current published app 
 
+Further,
+- Make sure QnABotML.Model is loaded properly, if not one can add the model mannualy using the file "training_data_pep_bot" in "TrainingData" folder.
 
 ## Testing the bot using Bot Framework Emulator
 
